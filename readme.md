@@ -1,0 +1,1 @@
+Burada html ve css ile öğrenmiş olduklarımla form yapısı oluşturdum.git
